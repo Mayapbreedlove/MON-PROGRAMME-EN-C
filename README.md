@@ -1,2 +1,2 @@
-# MON-PORTEFOLIO
-MON PORTEFOLIO personnel développée en HTML et CSS, présentant mes projet académiques et compétences
+# MON PROGRAMME EN C
+il a été concu pour la manipulation des pointeurs, des matrices et autres en c
